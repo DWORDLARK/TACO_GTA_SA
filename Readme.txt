@@ -9,6 +9,8 @@
 	And maybe for Admin work in server (inside visual range for camera movement)
 
 	Program can be started anywhere and it will detect GTAsa/sa:mp presence.
+   
+   	Functionality is based on memory read / write.
 
 ----------------------------------------------------------------------------------------
  Controls:
@@ -29,7 +31,11 @@
 				
 			***Spectator mode is controlled by mouse movement, 
 			aimed to the desired direction.
-
+   
+		When Player is in vehicle, all camera functions work with vehicle camera.
+  		!! Its only usable in short distance from camera, 
+    		if vehicle moves far away from camera, some visual distortion appear.
+      		
 
 		Left-Right / Up-Down speed is controlled by STEP SIZE.
 			
@@ -45,11 +51,10 @@
 				
 			Load: CTRL+1,CTRL+2,CTRL+3,CTRL+4,CTRL+5,CTRL+6,CTRL+7,CTRL+8,CTRL+9
 				
-			Data is saved to file: GTA_SA_XYZ.ini
+			Data is saved to file: Taco_GTA_SA_XYZ.ini / Taco_GTA_SAMP_XYZ.ini
 
 		Teleport function has 5 seconds delay. 
-		(This will make it little less effective cheating tool)
-
+  
 ----------------------------------------------------------------------------------------
  TACO_GTA_SA_Settings.ini:
 ----------------------------------------------------------------------------------------
@@ -62,16 +67,18 @@
 		Form_Y=			program window Y-position on desktop.
 		
 
-
-
-
-
 ----------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------
  v 1.0 (30.12.2020)
+ 
 ----------------------------------------------------------------------------------------
  v 1.1.4.1 (12.05.2024)
  First public release.
+ 
+----------------------------------------------------------------------------------------
+ v 1.1.7.x (21.07.2025)
++ In-vehicle Camera functions (for simgle player)
+
 ----------------------------------------------------------------------------------------
 
 
@@ -80,13 +87,13 @@
 
 
 
-
-
 ----------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------
-Coded by LARK_1
+Code and idea: LARK_1
+
 ----------------------------------------------------------------------------------------
 Program created with: Embarcadero RAD Studio XE4
+
 ----------------------------------------------------------------------------------------
 
 
