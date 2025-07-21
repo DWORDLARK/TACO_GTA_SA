@@ -34,7 +34,10 @@
 				
 			***Spectator mode is controlled by mouse movement, 
 			aimed to the desired direction.
-
+   
+		When Player is in vehicle, all camera functions work with vehicle camera.
+  		!! Its only usable in short distance from camera, 
+    		if vehicle moves far away from camera, some visual distortion appear.
 
 		Left-Right / Up-Down speed is controlled by STEP SIZE.
 			
@@ -80,8 +83,10 @@
  First public release.
  
 ----------------------------------------------------------------------------------------
+ v 1.1.7.x (21.07.2025)
++In-vehicle Camera functions
 
-
+----------------------------------------------------------------------------------------
 
 
 
