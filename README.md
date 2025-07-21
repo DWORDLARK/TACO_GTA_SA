@@ -54,8 +54,7 @@
 			Data is saved to file: Taco_GTA_SA_XYZ.ini / Taco_GTA_SAMP_XYZ.ini
 
 		Teleport function has 5 seconds delay. 
-		(This will make it little less effective cheating tool)
-
+  
 ----------------------------------------------------------------------------------------
  TACO_GTA_SA_Settings.ini:
 ----------------------------------------------------------------------------------------
