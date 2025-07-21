@@ -10,11 +10,8 @@
 
 	Program can be started anywhere and it will detect GTAsa/sa:mp presence.
    
-   Functionality is based on memory read / write.
-   In this sense it can be called a hack.
-   But development of this application has not been in the direction of cheating in game.
+   	Functionality is based on memory read / write.
 
-   
 ----------------------------------------------------------------------------------------
  Controls:
 ----------------------------------------------------------------------------------------
@@ -38,6 +35,7 @@
 		When Player is in vehicle, all camera functions work with vehicle camera.
   		!! Its only usable in short distance from camera, 
     		if vehicle moves far away from camera, some visual distortion appear.
+      		
 
 		Left-Right / Up-Down speed is controlled by STEP SIZE.
 			
@@ -84,7 +82,7 @@
  
 ----------------------------------------------------------------------------------------
  v 1.1.7.x (21.07.2025)
-+In-vehicle Camera functions
++ In-vehicle Camera functions
 
 ----------------------------------------------------------------------------------------
 
