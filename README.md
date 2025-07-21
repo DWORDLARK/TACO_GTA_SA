@@ -51,7 +51,7 @@
 				
 			Load: CTRL+1,CTRL+2,CTRL+3,CTRL+4,CTRL+5,CTRL+6,CTRL+7,CTRL+8,CTRL+9
 				
-			Data is saved to file: GTA_SA_XYZ.ini
+			Data is saved to file: Taco_GTA_SA_XYZ.ini / Taco_GTA_SAMP_XYZ.ini
 
 		Teleport function has 5 seconds delay. 
 		(This will make it little less effective cheating tool)
